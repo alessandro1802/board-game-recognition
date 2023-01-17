@@ -1,11 +1,9 @@
 # Monopoly recognition
 [![Python 3.8](https://img.shields.io/badge/Python%20-3.8-informational)](https://www.python.org/downloads/release/python-3816/)
+![](https://github.com/alessandro1802/board-game-recognition/blob/main/demo.gif)
 ## Technique and approach
 The project is based on classic *Computer Vision* techniques, hence, **no** *Neural Networks* are involved.  
 The notebook `recognize` (executable code) is self-explanatory, so the detailed description of how everything works is present there.
-
-## Demo
-
 
 ## Set-up
 1. After cloning the repository, create a `Python 3.8` virtual environment: 
@@ -50,11 +48,20 @@ There are 3 levels of difficulty:
 
 ## File-structure
 1. `data/`
+
 	a) input videos separated by difficulty level
+	
 	b) `train/` contains heuristic templates
+	
 2. `output/`
+
 	a) rendered videos siparated by difficulty level
+	
 	b) `intemediate/` contains output demos obtained while processing
+	
 3.  Project files
+
 	a) `recognize.ipynb` is the notebook with how it works explanations and code
+	
 	b) `requirements.txt` is the list of dependencies
+	
