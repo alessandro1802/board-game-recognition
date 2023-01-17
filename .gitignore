@@ -1,5 +1,6 @@
-# Jupyter
+# Development environmets' files
 .ipynb_checkpoints/
+.obsidian/
 
 # Virtual envitonment
 venv/
