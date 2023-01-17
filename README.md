@@ -1,6 +1,8 @@
 # Monopoly recognition
 [![Python 3.8](https://img.shields.io/badge/Python%20-3.8-informational)](https://www.python.org/downloads/release/python-3816/)
-![](https://github.com/alessandro1802/board-game-recognition/blob/main/demo.gif)
+
+<img src="https://github.com/alessandro1802/board-game-recognition/blob/main/demo.gif" height="750"/>
+
 ## Technique and approach
 The project is based on classic *Computer Vision* techniques, hence, **no** *Neural Networks* are involved.  
 The notebook `recognize` (executable code) is self-explanatory, so the detailed description of how everything works is present there.
